@@ -31,13 +31,9 @@ Week 4 – Data Visualization
 Creating an interactive Tableau dashboard to present insights
 
 
-Tech Stack
+🛠️ Tech Stack
 ----
-SQL
-Python
-pandas
-scikit-learn
-Tableau
+SQL,Python (pandas, Matplotlib, scikit-learn),Tableau
 
 
 📈 Expected Outcomes
@@ -50,13 +46,11 @@ Tableau
 
 👥 Team Members
 ----
-Bilal Abo Nar (Team Leader)
-(Esraa Nagy Nabih)
-(Zeyad Shaaban)
-(Shehab el_din)
-(Youssef Khalifa)
+Bilal Abo Nar (Team Leader),
+Esraa Nagy Nabih,
+Zeyad Shaaban,
+Shehab El_Din Mohamed ,
+Youssef Khalifa
 
-🛠️ Tech StackLanguages:
-SQL, Python (pandas, Matplotlib, scikit-learn).Visualization: Tableau.
 
 📋 Instructor(Dina Ezzat)
