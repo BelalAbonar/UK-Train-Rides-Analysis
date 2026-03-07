@@ -1,28 +1,55 @@
-UK Train Rides: Predictive Analysis & Forecasting 
-
-📖 Introduction
-Railway transportation generates large volumes of operational and ticketing data that can provide valuable insights into passenger demand, revenue patterns, and service performance. Analyzing this data helps transportation systems better understand travel behavior and improve operational planning.
-
-This project explores UK railway ticket sales and journey data to analyze ridership patterns, revenue trends, ticket class demand, and service performance. The analysis aims to extract meaningful insights and support data-driven decision-making through data analysis, visualization, and forecasting techniques.
+UK Railway Ridership and Revenue Forecasting Analysis
 
 
-📌 Project Description
-This project presents a comprehensive end-to-end data analysis of UK railway ticket sales and journey data to uncover meaningful insights into passenger travel behavior, ridership patterns, revenue performance, and operational efficiency across the railway network. Railway systems generate large volumes of operational and ticketing data, which can be leveraged to better understand demand patterns, improve service planning, and support strategic decision-making.
+Introduction
+----
+Railway transportation systems generate large volumes of operational and ticketing data that provide valuable insights into passenger demand, revenue patterns, and service performance. Analyzing this data helps transportation authorities better understand travel behavior and improve operational planning.
 
-The project begins with data cleaning, preprocessing, and data modeling using SQL and Python to prepare the dataset for analysis. Exploratory Data Analysis (EDA) is then conducted to investigate key business questions related to passenger demand, ticket class preferences, route popularity, pricing patterns, and the impact of delays on customer behavior and refunds.
-
-In addition to descriptive analysis, the project applies predictive analytics techniques to forecast future trends in railway operations. Machine learning and time-series forecasting methods are used to estimate the number of rides for the upcoming month, predict expected daily revenue, and analyze demand across different ticket classes. These predictive insights help simulate real-world decision-making scenarios such as capacity planning, pricing strategies, and operational resource allocation.
-
-Finally, the results of the analysis are presented through clear visualizations and an interactive data dashboard that enables stakeholders to easily explore trends, monitor key performance indicators, and gain actionable insights. By combining data analysis, visualization, and forecasting, this project demonstrates how data-driven approaches can enhance decision-making and improve the efficiency of transportation systems.
+This project analyzes UK railway ticket sales and journey data to explore ridership trends, revenue patterns, ticket class demand, and service performance using data analysis, visualization, and predictive analytics techniques.
 
 
-🎯 Key Objectives
-Week 1: Building a robust data model, cleaning, and preprocessing datasets using SQL and Python.
-Week 2: Exploratory Data Analysis (EDA) to answer critical business questions.
-Week 3: Advanced Forecasting using Machine Learning (scikit-learn) to predict monthly rides, daily revenue, and ticket class demand.
-Week 4: Creating an interactive Tableau dashboard for final visualization and presentation.
+Project Description
+----
+This project performs an end-to-end data analysis of UK railway ticket sales and journey data to understand passenger behavior and identify key operational trends. The analysis includes data cleaning, preprocessing, and exploratory data analysis to examine ridership patterns, revenue trends, ticket class preferences, and route popularity.
+
+Predictive analytics and machine learning techniques are applied to forecast future railway demand, including monthly ridership, expected daily revenue, and ticket class demand. The results are presented through clear visualizations and an interactive dashboard that supports data-driven decision-making and transportation planning.
+
+
+Project Objectives
+----
+Week 1 – Data Preparation
+Data cleaning and preprocessing
+Building a structured data model using SQL and Python
+
+Week 2 – Exploratory Data Analysis
+Analyzing passenger demand, ticket classes, and revenue trends
+
+Week 3 – Predictive Analytics
+Forecasting monthly ridership, daily revenue, and ticket demand
+
+Week 4 – Data Visualization
+Creating an interactive Tableau dashboard to present insights
+
+
+Tech Stack
+----
+SQL
+Python
+pandas
+scikit-learn
+Tableau
+
+
+📈 Expected Outcomes
+----
+- Identify key ridership and revenue trends
+- Understand passenger demand across ticket classes
+- Forecast future train rides and revenue
+- Provide actionable insights for transportation planning and optimization
+
 
 👥 Team Members
+----
 Bilal Abo Nar (Team Leader)
 (Esraa Nagy Nabih)
 (Zeyad Shaaban)
