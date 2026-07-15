@@ -111,6 +111,11 @@ Created visualizations using **Matplotlib** and **Seaborn**, including:
 
 ## 🖼️ Dashboard Preview (Implemented by Bilal Abo Nar)
 
+## 🔗 Dashboard Links
+
+- 📊 Power BI Dashboard: [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/ab081d69-2b66-4504-9595-16f56a097ed5?pbi_source=desktop)
+
+## 🔗 Pages:
 
 ### 1. 🏠 Cover Page (Navigation)
 > *An app-like landing page using Power BI buttons and page navigation actions.*
